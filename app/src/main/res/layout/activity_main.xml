@@ -10,7 +10,7 @@
 
     <Button
         android:id="@+id/info_button"
-        android:layout_width="120dp"
+        android:layout_width="130dp"
         android:layout_height="100dp"
         android:background="#00FFEB"
         android:drawableEnd="@android:drawable/ic_menu_myplaces"
